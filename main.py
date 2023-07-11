@@ -7,7 +7,6 @@ import time
 print("esperando pulsador")
 
 sw = Pin(23, Pin.IN)
-led = Pin(2, Pin.OUT)
 
 contador = 0
 
