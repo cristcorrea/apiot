@@ -1,3 +1,5 @@
+# Cristian Correa
+# Ejercicio 5 APIOT 2023
 
 
 from machine import Pin, Timer
