@@ -1,4 +1,5 @@
-
+# Cristian Correa
+# Ejercicio 3 APIOT 2023
 
 from machine import Pin
 import dht
