@@ -1,3 +1,2 @@
-# Argentina Programa IoT UNaM 2023
-## Cristian Correa
-### Repositorio para entrega de ejercicios. Un branch por ejercicio. 
+## Capitulo 3
+### Escribir un programa para el esp32 basado en el circuito utilizado en el capítulo 3, que muestre en la terminal, cada 20 segundos, las mediciones de humedad y temperatura del sensor DHT22.
